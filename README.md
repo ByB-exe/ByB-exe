@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ByB-exe
 - 👀 I’m interested in Lua
-- 🌱 I’m currently learning Java, Lua, Python, html, CSS
+- 🌱 I’m currently learning Java, Lua, Python, html, CSS, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pedbenjamin29@gmail.com
 
